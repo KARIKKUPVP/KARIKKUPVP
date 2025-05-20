@@ -20,6 +20,15 @@ Prepare yourself for a jaw-dropping, action-packed, and beautifully chaotic PvP 
 ```plaintext
 Server-IP: 172.232.115.25:7813
 
+
+
+
+
+
+
+
+
+
 💬 Join Our Discord!
 Join the heart of the KPvP community, meet other players, ask questions, share your clips, and stay up-to-date with events and announcements!
 
