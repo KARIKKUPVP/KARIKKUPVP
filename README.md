@@ -17,13 +17,7 @@ Prepare yourself for a jaw-dropping, action-packed, and beautifully chaotic PvP 
 
 ## 🚀 Connect Now!
 
-```plaintext
 Server-IP: 172.232.115.25:7813
-
-
-
-
-
 
 
 
