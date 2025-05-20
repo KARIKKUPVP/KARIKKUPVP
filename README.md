@@ -19,3 +19,21 @@ Prepare yourself for a jaw-dropping, action-packed, and beautifully chaotic PvP 
 
 ```plaintext
 Server-IP: 172.232.115.25:7813
+
+💬 Join Our Discord!
+Join the heart of the KPvP community, meet other players, ask questions, share your clips, and stay up-to-date with events and announcements!
+
+
+🎮 How to Play?
+Download and install SA-MP
+
+Launch the SA-MP client
+
+Add our server IP
+
+Connect and jump into the chaos!
+
+🌟 Final Words
+KarikkuPvP is more than just bullets and blood – it’s a place where fun never ends, admins never sleep, and the PvP never stops, a home built for fighters, dreamers, and friends who just want to shoot, laugh, and grind together in style; from beautiful maps to fierce competition, from endless support to FiveM-style vibes, this server is the definition of awesome, cute, and chaotic fun – and we can’t wait to see you in the arena!
+
+🎉 So what are you waiting for? Gear up, join in, and become a part of the KPvP legacy.
