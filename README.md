@@ -28,13 +28,13 @@ Join the heart of the KPvP community, meet other players, ask questions, share y
 
 
 🎮 How to Play?
-Download and install SA-MP
+1. Download and install SA-MP
 
-Launch the SA-MP client
+2. Launch the SA-MP client
 
-Add our server IP
+3. Add our server IP
 
-Connect and jump into the chaos!
+4. Connect and jump into the chaos!
 
 🌟 Final Words
 KarikkuPvP is more than just bullets and blood – it’s a place where fun never ends, admins never sleep, and the PvP never stops, a home built for fighters, dreamers, and friends who just want to shoot, laugh, and grind together in style; from beautiful maps to fierce competition, from endless support to FiveM-style vibes, this server is the definition of awesome, cute, and chaotic fun – and we can’t wait to see you in the arena!
